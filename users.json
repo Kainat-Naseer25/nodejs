@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "username": "atuny022",
+        "email": "atuny0@sohu.com",
+        "phone": "+63 791 675 8914",
+        "gender": "male",
+        "image": "https://robohash.org/hicveldicta.png"
+    },
+    {
+        "id": 3,
+        "username": "rshawe2",
+        "email": "rshawe2@51.la",
+        "phone": "+63 739 292 7942",
+        "gender": "male",
+        "image": "https://robohash.org/consequunturautconsequatur.png"
+    },
+    {
+        "id": 4,
+        "username": "Kainat Naseer",
+        "email": "kainatnaseer@gmail.com",
+        "phone": "+6379167553738",
+        "gender": "female",
+        "image": "https://robohash.org/hicveldicta.png"
+    }
+]
